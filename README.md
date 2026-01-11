@@ -11,3 +11,6 @@
 ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge)
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+
+### 🤝 Contact me:
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agmardev.contact@gmail.com)
